@@ -7,4 +7,6 @@ public class oksana {
     // changed project
 
     // complited
+
+    // already changed
 }
