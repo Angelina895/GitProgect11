@@ -5,4 +5,5 @@ public class Study {
 
     //more study
 
+    // study completed
 }
